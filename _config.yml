@@ -1,3 +1,10 @@
 remote_theme: daviddarnes/alembic
 
 theme: jekyll-theme-cayman
+
+navigation_header:
+  Home: /
+  Project 1: /project1_bamap/project1.md
+  Project 2: /project2_sfi/project2.html
+  Project 3: /project1_bamap/project1.html
+  Project 4: /project1_bamap/project1.html
