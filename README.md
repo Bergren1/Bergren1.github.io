@@ -6,7 +6,8 @@
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-![baltimoresmall](https://user-images.githubusercontent.com/42807663/50058302-519a9580-0144-11e9-80f4-94def11a91d2.jpg)
+![animation5](https://user-images.githubusercontent.com/42807663/50058939-e9e94800-014d-11e9-873a-cc8375aa4a10.gif)
+
 
 [See more details here.](https://bergren1.github.io/Project1/)
 
