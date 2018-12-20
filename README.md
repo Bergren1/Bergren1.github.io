@@ -47,5 +47,7 @@ This is a study on changes in seasonal snowmelt due to forest fires in the NW te
 
 [See more details here.](https://bergren1.github.io/Ges-486-Final-Project/)
 
+A study on healthcare inequity and life expectancy across the United States
+
 </div>
 </div>
