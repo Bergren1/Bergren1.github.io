@@ -1,4 +1,5 @@
-Bergren's 486 GIS portfolio
+# Bergren's 486 GIS portfolio
+
 ## Project 1
 
 <!--This is the first row of projects -->
@@ -35,6 +36,7 @@ This project explores the change in housing vacancy in Baltimore during the 2000
 
 [See more details here.](https://bergren1.github.io/Project3/)
 
+This is a study on changes in seasonal snowmelt due to forest fires in the NW territories was done in conjunction with Dakota Robey,Mark Broomfield, and Andrew Gibson.
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
