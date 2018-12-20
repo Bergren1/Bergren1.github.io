@@ -4,7 +4,7 @@ theme: jekyll-theme-cayman
 
 navigation_header:
   Home: /
-  Project 1: /Project1.html 
-  Project 2: /project2_sfi/project2.html
+  Project 1: https://bergren1.github.io/Project1/
+  Project 2: https://bergren1.github.io/Project2/
   Project 3: /project1_bamap/project1.html
-  Project 4: /project1_bamap/project1.html
+  Project 4: https://bergren1.github.io/Ges-486-Final-Project/
