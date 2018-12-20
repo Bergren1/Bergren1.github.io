@@ -1,6 +1,6 @@
 remote_theme: daviddarnes/alembic
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
 
 navigation_header:
   Home: /
