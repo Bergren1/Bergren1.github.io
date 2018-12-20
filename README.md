@@ -5,7 +5,8 @@
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-![baltimoresmall](https://user-images.githubusercontent.com/42807663/50058302-519a9580-0144-11e9-80f4-94def11a91d2.jpg)
+![baltimore](https://user-images.githubusercontent.com/42807663/50261788-2336e780-03dc-11e9-8b37-fbfd27ca7d2a.jpg)
+
 
 [See more details here.](https://bergren1.github.io/Project1/)
 
@@ -16,7 +17,8 @@ This project explores the availability of public transportation in Baltimore bas
 <div style="display: table-cell; width:370px" markdown="1">
 ## Project 2 
 
-![adjustedsymbologysmall](https://user-images.githubusercontent.com/42807663/50058298-447da680-0144-11e9-857b-ab5f9f6aefff.jpg)
+![adjusted symbology](https://user-images.githubusercontent.com/42807663/50261794-27fb9b80-03dc-11e9-83fa-5f816453afe7.jpg)
+
 
 [See more details here.](https://bergren1.github.io/Project1/)
 
@@ -29,6 +31,7 @@ This project explores the change in housing vacancy in Baltimore during the 2000
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
 ### Project 3 
+![yearcomparison](https://user-images.githubusercontent.com/42807663/50261801-2f22a980-03dc-11e9-8b05-efd00f0ebb4d.PNG)
 
 
 </div>
@@ -37,7 +40,7 @@ This project explores the change in housing vacancy in Baltimore during the 2000
 
 ### Project 4
 
-![animation5](https://user-images.githubusercontent.com/42807663/50058939-e9e94800-014d-11e9-873a-cc8375aa4a10.gif)
+![hexmap](https://user-images.githubusercontent.com/42807663/50261803-334ec700-03dc-11e9-8424-f475740057be.jpg)
 
 
 
