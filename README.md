@@ -1,10 +1,12 @@
 # Bergren's 486 GIS portfolio
 
-## Project 1
+
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+  
+## Project 1
 
 ![baltimore](https://user-images.githubusercontent.com/42807663/50261788-2336e780-03dc-11e9-8b37-fbfd27ca7d2a.jpg)
 
@@ -16,6 +18,7 @@ This project explores the availability of public transportation in Baltimore bas
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
+
 ## Project 2 
 
 ![adjusted symbology](https://user-images.githubusercontent.com/42807663/50261794-27fb9b80-03dc-11e9-83fa-5f816453afe7.jpg)
