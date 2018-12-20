@@ -11,10 +11,10 @@ Bergren's 486 GIS portfolio
 [See more details here.](https://bergren1.github.io/Project1/)
 
 This project explores the availability of public transportation in Baltimore based on race.
+
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
-
 ## Project 2 
 
 ![adjusted symbology](https://user-images.githubusercontent.com/42807663/50261794-27fb9b80-03dc-11e9-83fa-5f816453afe7.jpg)
