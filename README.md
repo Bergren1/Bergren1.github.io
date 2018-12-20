@@ -1,4 +1,3 @@
-# Bergren's GES 486 Portfolio
 
 ## Project 1
 
