@@ -21,7 +21,7 @@ This project explores the availability of public transportation in Baltimore bas
 
 ![adjusted symbology](https://user-images.githubusercontent.com/42807663/50261794-27fb9b80-03dc-11e9-83fa-5f816453afe7.jpg)
 
-[See more details here.](https://bergren1.github.io/Project1/)
+[See more details here.](https://bergren1.github.io/Project2/)
 
 This project explores the change in housing vacancy in Baltimore during the 2000's. This Project relies heavily on Python in its data analysis.
 </div>
