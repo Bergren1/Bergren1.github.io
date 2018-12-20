@@ -33,7 +33,7 @@ This project explores the change in housing vacancy in Baltimore during the 2000
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-### Project 3 
+## Project 3 
 
 ![yearcomparison](https://user-images.githubusercontent.com/42807663/50261801-2f22a980-03dc-11e9-8b05-efd00f0ebb4d.PNG)
 
@@ -44,7 +44,7 @@ This is a study on changes in seasonal snowmelt due to forest fires in the NW te
 
 <div style="display: table-cell; width:370px" markdown="1">
 
-### Project 4
+## Project 4
 
 ![hexmap](https://user-images.githubusercontent.com/42807663/50261803-334ec700-03dc-11e9-8424-f475740057be.jpg)
 
