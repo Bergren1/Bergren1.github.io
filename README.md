@@ -15,6 +15,7 @@ This project explores the availability of public transportation in Baltimore bas
 
 <div style="display: table-cell; width:370px" markdown="1">
 ## Project 2 
+
 ![adjustedsymbologysmall](https://user-images.githubusercontent.com/42807663/50058298-447da680-0144-11e9-857b-ab5f9f6aefff.jpg)
 
 [See more details here.](https://bergren1.github.io/Project1/)
