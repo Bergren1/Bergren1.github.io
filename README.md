@@ -1,4 +1,4 @@
-# Bergren's 486 GIS portfolio
+# Bergren's GIS portfolio
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
