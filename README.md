@@ -40,7 +40,7 @@ This project explores the change in housing vacancy in Baltimore during the 2000
 This is a quick map made in ArcGIS pro displaying population density and bridges with significant damage in Washington State
 </div>
 
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:370px;margin-right:3px" markdown="1">
 
 ## Project 4
 
