@@ -1,4 +1,4 @@
-# Bergren's GIS portfolio
+<h1 class="project-name"> Bergren's GIS Portfolio </h1>
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
