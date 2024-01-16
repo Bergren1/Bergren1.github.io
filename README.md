@@ -33,11 +33,11 @@ This project explores the change in housing vacancy in Baltimore during the 2000
 
 ## Project 3 
 
-![yearcomparison](https://user-images.githubusercontent.com/Layout1.png)
+![yearcomparison](https://raw.githubusercontent.com/Bergren1/Bergren1.github.io/master/Layout2.png)
 
 [See more details here.](https://bergren1.github.io/Project3/)
 
-This is a study on changes in seasonal snowmelt due to forest fires in the NW territories was done in conjunction with Dakota Robey,Mark Broomfield, and Andrew Gibson.
+This is a quick map made in ArcGIS pro displaying population density and bridges with significant damage in Washington State
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
