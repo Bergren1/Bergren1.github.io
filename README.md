@@ -33,7 +33,7 @@ This project explores the change in housing vacancy in Baltimore during the 2000
 
 ## Project 3 
 
-![yearcomparison](https://user-images.githubusercontent.com/42807663/50261801-2f22a980-03dc-11e9-8b05-efd00f0ebb4d.PNG)
+![yearcomparison](https://user-images.githubusercontent.com/Layout1.png)
 
 [See more details here.](https://bergren1.github.io/Project3/)
 
